@@ -125,7 +125,7 @@ pip install -r requirements.txt
 
 You will also need to install the [Java Development Kit](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html), which is required by boilerpipe.
 
-If you wish to complete all the examples in Chapter 9, you will need to install [MongoDB](https://www.mongodb.com/).
+*Note:* MongoDB is require to run the last TwitterReference.py You can obtain it at [www.MongoDB.com](https://www.mongodb.com/)
 
 ## Contributing
 
