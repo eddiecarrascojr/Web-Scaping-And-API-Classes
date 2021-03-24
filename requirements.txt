@@ -102,7 +102,7 @@ PyWavelets==1.0.1
 pyzmq==17.1.2
 requests==2.20.0
 requests-oauthlib==1.0.0
-rsa==4.0
+rsa==4.1
 ruamel-yaml==0.15.71
 scikit-image==0.13.1
 scikit-learn==0.19.2
