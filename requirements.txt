@@ -47,7 +47,7 @@ JPype1-py3==0.5.5.2
 jsonschema==3.0.0a3
 jupyter-client==5.2.4
 jupyter-core==4.4.0
-jupyterhub==0.9.4
+jupyterhub==1.5.0
 jupyterlab==0.35.4
 jupyterlab-server==0.2.0
 mailbox==0.4
