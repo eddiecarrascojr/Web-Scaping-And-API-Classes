@@ -51,7 +51,7 @@ jupyterhub==0.9.4
 jupyterlab==0.35.4
 jupyterlab-server==0.2.0
 mailbox==0.4
-Mako==1.0.7
+Mako==1.2.2
 MarkupSafe==1.1.0
 matplotlib==2.1.2
 mistune==0.8.4
